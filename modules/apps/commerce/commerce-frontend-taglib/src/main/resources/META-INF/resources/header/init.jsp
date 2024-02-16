@@ -19,6 +19,7 @@ taglib uri="http://liferay.com/tld/ui" prefix="liferay-ui" %>
 <%@ page import="com.liferay.commerce.constants.CommercePortletKeys" %><%@
 page import="com.liferay.commerce.frontend.model.HeaderActionModel" %><%@
 page import="com.liferay.commerce.frontend.util.HeaderHelperUtil" %><%@
+page import="com.liferay.commerce.product.model.CPDefinitionModel" %><%@
 page import="com.liferay.frontend.taglib.clay.servlet.taglib.util.DropdownItem" %><%@
 page import="com.liferay.petra.string.StringPool" %><%@
 page import="com.liferay.portal.kernel.json.JSONFactoryUtil" %><%@
@@ -64,7 +65,12 @@ long beanId = 0;
 BaseModel<?> beanBaseModel = (BaseModel)bean;
 
 if (beanBaseModel != null) {
-	beanId = (long)beanBaseModel.getPrimaryKeyObj();
+	if (beanBaseModel instanceof CPDefinitionModel) {
+		CPDefinitionModel cpDefinition = (CPDefinitionModel)beanBaseModel;
+		beanId = cpDefinition.getCProductId();
+	}else {
+		beanId = (long) beanBaseModel.getPrimaryKeyObj();
+	}
 }
 
 WorkflowTask reviewWorkflowTask = HeaderHelperUtil.getReviewWorkflowTask(themeDisplay.getCompanyId(), themeDisplay.getUserId(), beanId, model.getName());
