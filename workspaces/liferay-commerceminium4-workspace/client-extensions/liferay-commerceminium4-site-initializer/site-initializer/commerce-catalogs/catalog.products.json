@@ -212,7 +212,7 @@
 		"externalReferenceCode": "MIN93027",
 		"height": 8.7,
 		"images": [
-			"default_Minium_ProductImage.png"
+			"default_product_image.png"
 		],
 		"length": 6.2,
 		"manufacturerPartNumber": "BB98334",
@@ -423,7 +423,7 @@
 		"externalReferenceCode": "MIN93021",
 		"height": 5.3,
 		"images": [
-			"default_Minium_ProductImage.png"
+			"default_product_image.png"
 		],
 		"length": 9.4,
 		"manufacturerPartNumber": "BB98326",
@@ -473,7 +473,7 @@
 		"externalReferenceCode": "MIN93022",
 		"height": 18,
 		"images": [
-			"default_Minium_ProductImage.png"
+			"default_product_image.png"
 		],
 		"length": 12,
 		"minStockQuantity": 5,
@@ -788,7 +788,7 @@
 		"externalReferenceCode": "MIN00673",
 		"height": 1.7,
 		"images": [
-			"default_Minium_ProductImage.png"
+			"default_product_image.png"
 		],
 		"length": 10.2,
 		"manufacturerPartNumber": "EX938051",
@@ -838,7 +838,7 @@
 		"externalReferenceCode": "MIN00674",
 		"height": 5.3,
 		"images": [
-			"default_Minium_ProductImage.png"
+			"default_product_image.png"
 		],
 		"length": 9.4,
 		"manufacturerPartNumber": "EX938052",
@@ -888,7 +888,7 @@
 		"externalReferenceCode": "MIN00675",
 		"height": 18,
 		"images": [
-			"default_Minium_ProductImage.png"
+			"default_product_image.png"
 		],
 		"length": 12,
 		"manufacturerPartNumber": "EX938053",
@@ -1034,7 +1034,7 @@
 		"externalReferenceCode": "MIN00678",
 		"height": 2.5,
 		"images": [
-			"default_Minium_ProductImage.png"
+			"default_product_image.png"
 		],
 		"length": 4,
 		"manufacturerPartNumber": "EX938056",
@@ -1084,7 +1084,7 @@
 		"externalReferenceCode": "MIN00679",
 		"height": 8.7,
 		"images": [
-			"default_Minium_ProductImage.png"
+			"default_product_image.png"
 		],
 		"length": 6.2,
 		"manufacturerPartNumber": "EX938057",
@@ -1134,7 +1134,7 @@
 		"externalReferenceCode": "MIN00680",
 		"height": 1.7,
 		"images": [
-			"default_Minium_ProductImage.png"
+			"default_product_image.png"
 		],
 		"length": 10.2,
 		"manufacturerPartNumber": "EX938058",
@@ -1234,7 +1234,7 @@
 		"externalReferenceCode": "MIN00682",
 		"height": 18,
 		"images": [
-			"default_Minium_ProductImage.png"
+			"default_product_image.png"
 		],
 		"length": 12,
 		"manufacturerPartNumber": "EX938060",
@@ -1284,7 +1284,7 @@
 		"externalReferenceCode": "MIN00683",
 		"height": 1.7,
 		"images": [
-			"default_Minium_ProductImage.png"
+			"default_product_image.png"
 		],
 		"length": 10.2,
 		"manufacturerPartNumber": "EX938061",
@@ -1334,7 +1334,7 @@
 		"externalReferenceCode": "MIN77822",
 		"height": 5.3,
 		"images": [
-			"default_Minium_ProductImage.png"
+			"default_product_image.png"
 		],
 		"length": 9.4,
 		"manufacturerPartNumber": "ES98205",
@@ -1384,7 +1384,7 @@
 		"externalReferenceCode": "MIN77823",
 		"height": 18,
 		"images": [
-			"default_Minium_ProductImage.png"
+			"default_product_image.png"
 		],
 		"length": 12,
 		"manufacturerPartNumber": "ES98206",
@@ -1434,7 +1434,7 @@
 		"externalReferenceCode": "MIN77824",
 		"height": 2.5,
 		"images": [
-			"default_Minium_ProductImage.png"
+			"default_product_image.png"
 		],
 		"length": 4,
 		"manufacturerPartNumber": "ES98207",
@@ -1484,7 +1484,7 @@
 		"externalReferenceCode": "MIN77825",
 		"height": 2,
 		"images": [
-			"default_Minium_ProductImage.png"
+			"default_product_image.png"
 		],
 		"length": 7,
 		"manufacturerPartNumber": "ES98208",
@@ -1589,7 +1589,7 @@
 		"externalReferenceCode": "MIN38794",
 		"height": 1.7,
 		"images": [
-			"default_Minium_ProductImage.png"
+			"default_product_image.png"
 		],
 		"length": 10.2,
 		"manufacturerPartNumber": "HM88893",
@@ -1639,7 +1639,7 @@
 		"externalReferenceCode": "MIN38795",
 		"height": 5.3,
 		"images": [
-			"default_Minium_ProductImage.png"
+			"default_product_image.png"
 		],
 		"length": 9.4,
 		"manufacturerPartNumber": "HM88894",
@@ -1689,7 +1689,7 @@
 		"externalReferenceCode": "MIN38796",
 		"height": 18,
 		"images": [
-			"default_Minium_ProductImage.png"
+			"default_product_image.png"
 		],
 		"length": 12,
 		"manufacturerPartNumber": "HM88895",
@@ -1781,7 +1781,7 @@
 		"externalReferenceCode": "MIN38798",
 		"height": 2,
 		"images": [
-			"default_Minium_ProductImage.png"
+			"default_product_image.png"
 		],
 		"length": 7,
 		"manufacturerPartNumber": "HM88897",
@@ -1874,7 +1874,7 @@
 		"externalReferenceCode": "MIN38800",
 		"height": 8.7,
 		"images": [
-			"default_Minium_ProductImage.png"
+			"default_product_image.png"
 		],
 		"length": 6.2,
 		"manufacturerPartNumber": "HM88899",
@@ -1924,7 +1924,7 @@
 		"externalReferenceCode": "MIN38801",
 		"height": 1.7,
 		"images": [
-			"default_Minium_ProductImage.png"
+			"default_product_image.png"
 		],
 		"length": 10.2,
 		"manufacturerPartNumber": "HM88900",
@@ -1970,7 +1970,7 @@
 		"externalReferenceCode": "MIN38802",
 		"height": 5.3,
 		"images": [
-			"default_Minium_ProductImage.png"
+			"default_product_image.png"
 		],
 		"length": 9.4,
 		"manufacturerPartNumber": "HM88901",
@@ -2016,7 +2016,7 @@
 		"externalReferenceCode": "MIN38803",
 		"height": 18,
 		"images": [
-			"default_Minium_ProductImage.png"
+			"default_product_image.png"
 		],
 		"length": 12,
 		"manufacturerPartNumber": "HM88902",
@@ -2066,7 +2066,7 @@
 		"externalReferenceCode": "MIN38804",
 		"height": 1.7,
 		"images": [
-			"default_Minium_ProductImage.png"
+			"default_product_image.png"
 		],
 		"length": 10.2,
 		"manufacturerPartNumber": "HM88903",
@@ -2158,7 +2158,7 @@
 		"externalReferenceCode": "MIN55853",
 		"height": 18,
 		"images": [
-			"default_Minium_ProductImage.png"
+			"default_product_image.png"
 		],
 		"length": 12,
 		"manufacturerPartNumber": "TT00024",
@@ -2250,7 +2250,7 @@
 		"externalReferenceCode": "MIN55855",
 		"height": 2,
 		"images": [
-			"default_Minium_ProductImage.png"
+			"default_product_image.png"
 		],
 		"length": 7,
 		"manufacturerPartNumber": "TT00026",
@@ -2334,7 +2334,7 @@
 		"externalReferenceCode": "MIN55857",
 		"height": 1.7,
 		"images": [
-			"default_Minium_ProductImage.png"
+			"default_product_image.png"
 		],
 		"length": 10.2,
 		"manufacturerPartNumber": "TT00028",
@@ -2384,7 +2384,7 @@
 		"externalReferenceCode": "MIN55858",
 		"height": 5.3,
 		"images": [
-			"default_Minium_ProductImage.png"
+			"default_product_image.png"
 		],
 		"length": 9.4,
 		"manufacturerPartNumber": "TT00029",
@@ -2426,7 +2426,7 @@
 		"externalReferenceCode": "MIN55859",
 		"height": 18,
 		"images": [
-			"default_Minium_ProductImage.png"
+			"default_product_image.png"
 		],
 		"length": 12,
 		"manufacturerPartNumber": "TT00030",
@@ -2476,7 +2476,7 @@
 		"externalReferenceCode": "MIN55860",
 		"height": 2.5,
 		"images": [
-			"default_Minium_ProductImage.png"
+			"default_product_image.png"
 		],
 		"length": 4,
 		"manufacturerPartNumber": "TT00031",
