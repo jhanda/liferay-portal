@@ -1,0 +1,186 @@
+{
+	"pageElement": {
+		"pageElements": [
+			{
+				"definition": {
+					"indexed": true,
+					"layout": {}
+				},
+				"pageElements": [
+					{
+						"definition": {
+							"fragmentStyle": {
+								"backgroundColor": "gray500Color",
+								"backgroundFragmentImage": {
+									"title": {
+										"value": ""
+									},
+									"url": {
+										"value": "[$DOCUMENT_URL:/site-initializer/documents/group/Commerce/Header_01.jpg$]"
+									}
+								},
+								"borderWidth": "0",
+								"paddingBottom": "10",
+								"paddingLeft": "3",
+								"paddingTop": "10"
+							},
+							"fragmentViewports": [
+								{
+									"fragmentViewportStyle": {
+										"paddingLeft": "4",
+										"paddingRight": "4"
+									},
+									"id": "landscapeMobile"
+								},
+								{
+									"fragmentViewportStyle": {
+										"paddingLeft": "3",
+										"paddingRight": "3"
+									},
+									"id": "portraitMobile"
+								},
+								{
+									"fragmentViewportStyle": {
+										"paddingLeft": "5",
+										"paddingRight": "5"
+									},
+									"id": "tablet"
+								}
+							],
+							"indexed": true,
+							"layout": {
+								"paddingLeft": 1
+							}
+						},
+						"pageElements": [
+							{
+								"definition": {
+									"fragmentStyle": {
+										"borderWidth": "0"
+									},
+									"indexed": true,
+									"layout": {
+										"widthType": "Fixed"
+									}
+								},
+								"pageElements": [
+									{
+										"definition": {
+											"fragment": {
+												"key": "BASIC_COMPONENT-heading"
+											},
+											"fragmentConfig": {
+												"headingLevel": "h1"
+											},
+											"fragmentFields": [
+												{
+													"id": "element-text",
+													"value": {
+														"fragmentLink": {},
+														"text": {
+															"value_i18n": {
+																"en_US": "Summer Sales"
+															}
+														}
+													}
+												}
+											],
+											"fragmentStyle": {
+												"marginBottom": "4",
+												"textColor": "whiteColor"
+											},
+											"fragmentViewports": [
+												{
+													"fragmentViewportStyle": {
+														"marginRight": "0"
+													},
+													"id": "portraitMobile"
+												}
+											],
+											"indexed": true
+										},
+										"type": "Fragment"
+									},
+									{
+										"definition": {
+											"fragment": {
+												"key": "BASIC_COMPONENT-button"
+											},
+											"fragmentConfig": {
+												"buttonType": "primary",
+												"type": "link",
+												"buttonSize": "nm"
+											},
+											"fragmentFields": [
+												{
+													"id": "link",
+													"value": {
+														"fragmentLink": {},
+														"text": {
+															"value_i18n": {
+																"en_US": "Discover"
+															}
+														}
+													}
+												}
+											],
+											"fragmentViewports": [
+												{
+													"fragmentViewportStyle": {
+														"marginRight": "0"
+													},
+													"id": "portraitMobile"
+												}
+											],
+											"indexed": true
+										},
+										"type": "Fragment"
+									}
+								],
+								"type": "Section"
+							}
+						],
+						"type": "Section"
+					},
+					{
+						"definition": {
+							"widgetInstance": {
+								"widgetConfig": {
+									"cpContentListRendererKey": "list-default",
+									"grouped--cpTypeListEntryRendererKey": "list-entry-default",
+									"paginate": "true",
+									"orderByColumn2": "title",
+									"orderByColumn1": "modifiedDate",
+									"simple--cpTypeListEntryRendererKey": "list-entry-default",
+									"orderByType1": "DESC",
+									"selectionStyle": "dynamic",
+									"queryValues0": "featured",
+									"orderByType2": "ASC",
+									"virtual--cpTypeListEntryRendererKey": "list-entry-default",
+									"renderSelection": "custom",
+									"queryContains0": "true",
+									"paginationDelta": "5",
+									"queryAndOperator0": "false",
+									"diagram--cpTypeListEntryRendererKey": "list-entry-diagram",
+									"queryName0": "assetTags"
+								},
+								"widgetName": "com_liferay_commerce_product_content_web_internal_portlet_CPPublisherPortlet"
+							}
+						},
+						"type": "Widget"
+					}
+				],
+				"type": "Section"
+			}
+		],
+		"type": "Root"
+	},
+	"settings": {
+		"colorSchemeName": "01",
+		"masterPage": {
+			"key": "minium-master"
+		},
+		"themeName": "Classic"
+	},
+	"version": 1.1
+}
