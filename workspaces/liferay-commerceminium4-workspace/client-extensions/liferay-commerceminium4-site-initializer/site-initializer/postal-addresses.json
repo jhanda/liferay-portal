@@ -1,0 +1,17 @@
+[
+  {
+    "addressCountry": "United States",
+    "addressLocality": "Chicago",
+    "addressRegion": "Illinois",
+    "addressType": "billing-and-shipping",
+    "externalReferenceCode": "S_AUTO_SERVICE_HQ_ADDRESS",
+    "id": 37611,
+    "name": "S Auto Service Headquarters",
+    "phoneNumber": "773-787-3736",
+    "postalCode": "60640",
+    "primary": false,
+    "streetAddressLine1": "123 Main St.",
+    "streetAddressLine2": "",
+    "streetAddressLine3": ""
+  }
+]
