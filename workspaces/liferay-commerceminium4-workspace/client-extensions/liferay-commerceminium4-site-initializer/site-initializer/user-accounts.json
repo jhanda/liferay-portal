@@ -1,0 +1,18 @@
+[
+  {
+    "accountBriefs": [],
+    "alternateName": "mike.smith",
+    "emailAddress": "mike@sauto.demo",
+    "externalReferenceCode": "USER_MIKE_SMITH",
+    "familyName": "Smith",
+    "givenName": "Mike",
+    "jobTitle": "Parts Consultant",
+    "password": "test",
+    "siteBriefs": [
+      {
+        "externalReferenceCode": "LIFERAY_COMMERCE_MINIUM_4",
+      }
+    ],
+    "status": "Active"
+  }
+]

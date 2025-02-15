@@ -1,0 +1,12 @@
+[
+  {
+    "description": "S Auto Service is a automotive retailer that operates in the southwest United States",
+    "externalReferenceCode": "S_AUTO_SERVICE",
+    "name": "S Auto Service",
+    "organizationExternalReferenceCodes": [
+      "MINIUM_US_ORG"
+    ],
+    "taxId": "S-AUTO-TAX-ID",
+    "type": "business"
+  }
+]
