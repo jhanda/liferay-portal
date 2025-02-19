@@ -8,5 +8,50 @@
     ],
     "taxId": "S-AUTO-TAX-ID",
     "type": "business"
+  },
+  {
+    "externalReferenceCode": "LEO_AUTO_PARTS",
+    "name": "Leo Auto Parts Distributor",
+    "organizationExternalReferenceCodes": [
+      "MINIUM_ITALY_ORG"
+    ],
+    "taxId": "LEO-AUTO-TAX-ID",
+    "type": "business"
+  },
+  {
+    "externalReferenceCode": "CC_WEST",
+    "name": "CC West",
+    "organizationExternalReferenceCodes": [
+      "MINIUM_US_ORG"
+    ],
+    "taxId": "CC-WEST-TAX-ID",
+    "type": "business"
+  },
+  {
+    "externalReferenceCode": "CONNOLLY_REPAIR",
+    "name": "Connolly Repair",
+    "organizationExternalReferenceCodes": [
+      "MINIUM_US_ORG"
+    ],
+    "taxId": "CONNOLLY-REPAIR-TAX-ID",
+    "type": "business"
+  },
+  {
+    "externalReferenceCode": "JOES_COMPLETE_AUTO",
+    "name": "Joe's Complete Auto Care",
+    "organizationExternalReferenceCodes": [
+      "MINIUM_CANADA_ORG"
+    ],
+    "taxId": "JOES-COMPLETE-AUTO-TAX-ID",
+    "type": "business"
+  },
+  {
+    "externalReferenceCode": "HONEST_AUTO_REPAIR",
+    "name": "Honest Auto Repair Centre",
+    "organizationExternalReferenceCodes": [
+      "MINIUM_CANADA_ORG"
+    ],
+    "taxId": "HONEST-AUTO-REPAIR-TAX-ID",
+    "type": "business"
   }
 ]

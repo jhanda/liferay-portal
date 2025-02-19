@@ -1,5 +1,46 @@
 [
   {
+    "childOrganizations": [
+      {
+        "externalReferenceCode": "MINIUM_US_ORG",
+        "location": {
+          "addressCountry": "United States",
+          "addressCountryCode": "US",
+          "addressRegion": "California",
+          "addressRegionCode": "CA"
+        },
+        "name": "Minium USA",
+        "parentOrganization": {
+          "externalReferenceCode": "MINIUM_PARENT_ORG"
+        }
+      },
+      {
+        "externalReferenceCode": "MINIUM_CANADA_ORG",
+        "location": {
+          "addressCountry": "Canada",
+          "addressCountryCode": "CA",
+          "addressRegion": "Ontario",
+          "addressRegionCode": "ON"
+        },
+        "name": "Minium Canada",
+        "parentOrganization": {
+          "externalReferenceCode": "MINIUM_PARENT_ORG"
+        }
+      },
+      {
+        "externalReferenceCode": "MINIUM_ITALY_ORG",
+        "location": {
+          "addressCountry": "Italy",
+          "addressCountryCode": "IT",
+          "addressRegion": "Puglia",
+          "addressRegionCode": "75.0"
+        },
+        "name": "Minium Italy",
+        "parentOrganization": {
+          "externalReferenceCode": "MINIUM_PARENT_ORG"
+        }
+      }
+    ],
     "externalReferenceCode": "MINIUM_PARENT_ORG",
     "location": {
       "addressCountry": "United States",
@@ -8,44 +49,5 @@
       "addressRegionCode": "CA"
     },
     "name": "Minium"
-  },
-  {
-    "externalReferenceCode": "MINIUM_US_ORG",
-    "location": {
-      "addressCountry": "United States",
-      "addressCountryCode": "US",
-      "addressRegion": "California",
-      "addressRegionCode": "CA"
-    },
-    "name": "Minium USA",
-    "parentOrganization": {
-      "externalReferenceCode": "MINIUM_PARENT_ORG"
-    }
-  },
-  {
-    "externalReferenceCode": "MINIUM_CANADA_ORG",
-    "location": {
-      "addressCountry": "Canada",
-      "addressCountryCode": "CA",
-      "addressRegion": "Ontario",
-      "addressRegionCode": "ON"
-    },
-    "name": "Minium Canada",
-    "parentOrganization": {
-      "externalReferenceCode": "MINIUM_PARENT_ORG"
-    }
-  },
-  {
-    "externalReferenceCode": "MINIUM_ITALY_ORG",
-    "location": {
-      "addressCountry": "Italy",
-      "addressCountryCode": "IT",
-      "addressRegion": "Puglia",
-      "addressRegionCode": "75.0"
-    },
-    "name": "Minium Italy",
-    "parentOrganization": {
-      "externalReferenceCode": "MINIUM_PARENT_ORG"
-    }
   }
 ]
